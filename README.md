@@ -12,4 +12,4 @@ var flow = createFlow();
 module.exports = flow;
 ```
 
-is imported as `{default: [Function]}` in System but `[Function]` in node.
+Is imported as `{default: [Function]}` in System but `[Function]` in node.
