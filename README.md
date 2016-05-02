@@ -1,5 +1,7 @@
 # systemjs-typescript-import-example
 
+https://github.com/systemjs/systemjs/issues/1251
+
 `jspm i`, Serve `index.html` and look at `app.js!transpiled`.
 
 The `lodash/flow` module's source:
